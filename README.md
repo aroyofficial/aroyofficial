@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Arijit Roy (@aroyofficial), a code enthusiast.
-- 👀 I’m interested in coding, artificial intelligence.
-- 🌱 I’m currently learning B.Tech (Hons.) in Hooghly Engineering & Technology College.
-- 💞️ I’m looking to collaborate on IBM, TCS, CTS, INFOSYS, ACCENTURE.
-- 📫 Reach me by my email - aroy2000official@gmail.com , also contact me at +91 7980061574.
+- 👋 Hi, I’m Arijit Roy (@aroyofficial), B.Tech graduate in Computer Science and Engineering (2022).
+- 👀 Tech stack - .NET, NodeJS, MS SQL Server, Python.
+- 🌱 Associate Product Engineer Intern at DeltaX.
+- 💞️ Looking forward to learn new technologies.
+- 📫 Reach me by my email - aroy02072000@gmail.com , also contact me at +91 7980061574.
 
 <!---
 aroyofficial/aroyofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
