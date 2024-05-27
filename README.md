@@ -15,11 +15,11 @@ Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about
 [![Miscellaneous](https://img.shields.io/badge/%20Miscellaneous-LINQ%20%7c%20Newtonsoft.Json%20%7c%20AutoMapper%20%7c%20Serilog%20%7c%20Log4Net%20%7c%20JWT%20%7c%20Nuget-green?style=flat&color=1e8cbe)]()
 
 ### Frontend
-[![Languages](https://img.shields.io/badge/%20Languages-TypeScript%20%7c%20JavaScript%20%7C%20HTML%20%7C%20CSS-green?style=flat&color=2bbc8a)]()
-[![Frameworks](https://img.shields.io/badge/%20Frameworks-Vue.js%20%7c%20Angular.js-green?style=flat&color=2bbc8a)]()
-[![Libraries](https://img.shields.io/badge/%20Libraries-VueX%20%7c%20Vue%20Router%20%7c%20NgRx-green?style=flat&color=2bbc8a)]()
-[![Styling Libraries](https://img.shields.io/badge/%20Styling%20Libraries-Vuetify%20%7c%20IView%20%7c%20Bootstrap%20%7c%20Tailwind%20CSS-green?style=flat&color=2bbc8a)]()
-[![Test Frameworks](https://img.shields.io/badge/%20Test%20Frameworks-Cypress%20%7c%20Jest-green?style=flat&color=2bbc8a)]()
+[![Languages](https://img.shields.io/badge/%20Languages-TypeScript%20%7c%20JavaScript%20%7C%20HTML%20%7C%20CSS-green?style=flat&color=8c2c78)]()
+[![Frameworks](https://img.shields.io/badge/%20Frameworks-Vue.js%20%7c%20Angular.js-green?style=flat&color=8c2c78)]()
+[![Libraries](https://img.shields.io/badge/%20Libraries-VueX%20%7c%20Vue%20Router%20%7c%20NgRx-green?style=flat&color=8c2c78)]()
+[![Styling Libraries](https://img.shields.io/badge/%20Styling%20Libraries-Vuetify%20%7c%20IView%20%7c%20Bootstrap%20%7c%20Tailwind%20CSS-green?style=flat&color=8c2c78)]()
+[![Test Frameworks](https://img.shields.io/badge/%20Test%20Frameworks-Cypress%20%7c%20Jest-green?style=flat&color=8c2c78)]()
 
 ### CI/CD & DevOps
 [![Tools](https://img.shields.io/badge/%20Tools-Docker%20%7C%20Kubernetes%20%7C%20Jenkins-green?style=flat&color=2bbc8a)]()
