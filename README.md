@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a [Your Role or Profession] passionate about [
 
 ## 🔧 Technologies & Tools
 
-![Backend Languages](https://img.shields.io/badge/Languages-C%23%20%7c%20Python%20%7C%20Java%20%7C%20C-green?style=flat)
-![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js%20%7C%20Django%20%7C%20Spring%20%7C%20Rails-informational?style=flat&logoColor=white&color=2bbc8a)
-![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Jenkins%20%7C%20AWS-informational?style=flat&logoColor=white&color=2bbc8a)
+[![Backend Languages](https://img.shields.io/badge/%20Backend%20Languages-C%23%20%7c%20Python%20%7C%20Java%20%7C%20C-green?style=flat&color=2bbc8a)]()
+[![Backend Frameworks](https://img.shields.io/badge/%20Backend%20Frameworks-ASP.Net%20Web%20API%20%7c%20ASP.Net%20MVC%20%7C%20ASP.Net%20Core%20%7C%20ASP.Net%20Web%20-green?style=flat&color=2bbc8a)]()
+[![Data Access Technologies](https://img.shields.io/badge/%20Data%20Access%20Technologies-Entity%20Framework%20%7c%20Dapper%20%7C%20ADO.Net-green?style=flat&color=2bbc8a)]()
 
 ## 🚀 Projects
 
