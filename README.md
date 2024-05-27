@@ -29,13 +29,11 @@ Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about
 [![Code Repository](https://img.shields.io/badge/%20Code%20Repository-GitHub%20%7C%20BitBucket-green?style=flat&color=bc791a)]()
 [![Project Management Tool](https://img.shields.io/badge/%20Project%20Management%20Tool-Jira-green?style=flat&color=bc791a)]()
 
-### CI/CD & DevOps
-
 ## 👯‍♀️ Looking to Collaborate On
 
-- Collaboration Opportunity 1
-- Collaboration Opportunity 2
-- Collaboration Opportunity 3
+- Real-time Backend systems
+- Open-source projects to contribute to new/existing libraries
+- Web Development
 
 ## 📫 How to Reach Me
 
