@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about
 [![Technologies](https://img.shields.io/badge/%20Data%20Access%20Technologies-Entity%20Framework%20%7c%20Dapper%20%7C%20ADO.Net-green?style=flat&color=2bbc8a)]()
 [![Testing Frameworks](https://img.shields.io/badge/%20Test%20Frameworks-xUnit%20%7c%20NUnit%20%7C%20Specflow%20%7c%20Moq%20%7c%20Fluent%20Assertions-green?style=flat&color=2bbc8a)]()
 [![Databases](https://img.shields.io/badge/%20Databases-Microsoft%20SQL%20Server%20%7c%20MySQL-green?style=flat&color=2bbc8a)]()
+[![Miscellaneous](https://img.shields.io/badge/%20Miscellaneous-LINQ%20%7c%20Newtonsoft.Json%20%7c%20AutoMapper%20%7c%20Serilog%20%7c%20Log4Net-green?style=flat&color=2bbc8a)]()
 
 ### Frontend
 [![Languages](https://img.shields.io/badge/%20Languages-TypeScript%20%7c%20JavaScript%20%7C%20HTML%20%7C%20CSS-green?style=flat&color=2bbc8a)]()
