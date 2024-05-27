@@ -1,4 +1,4 @@
-# Hi there, I'm Arijit Roy 👋
+# Hi there, I'm Arijit Roy
 
 Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about building scalable and robust APIs, microservices, etc. Also, I have a proven track record of building next-level dynamic and responsive UI/UX. Here, you'll find a collection of my sample projects, contributions, and explorations in the world of Dotnet full-stack.
 
