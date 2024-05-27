@@ -18,26 +18,10 @@ Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about
 [![Frameworks](https://img.shields.io/badge/%20Frameworks-Vue.js%20%7c%20Angular.js-green?style=flat&color=2bbc8a)]()
 [![Libraries](https://img.shields.io/badge/%20Libraries-VueX%20%7c%20Vue%20Router%20%7c%20NgRx-green?style=flat&color=2bbc8a)]()
 [![Styling Libraries](https://img.shields.io/badge/%20Styling%20Libraries-Vuetify%20%7c%20IView%20%7c%20Bootstrap%20%7c%20Tailwind%20CSS-green?style=flat&color=2bbc8a)]()
-[![Test Frameworks](https://img.shields.io/badge/%20Testing%20Frameworks-Cypress%20%7c%20Jest-green?style=flat&color=2bbc8a)]()
+[![Test Frameworks](https://img.shields.io/badge/%20Test%20Frameworks-Cypress%20%7c%20Jest-green?style=flat&color=2bbc8a)]()
 
 ### CI/CD &amp; DevOps
-
-## 🚀 Projects
-
-### [Project 1 Name](https://github.com/yourusername/project1)
-A brief description of what Project 1 is about, the technologies used, and its purpose. You can also mention any significant achievements or contributions related to this project.
-
-### [Project 2 Name](https://github.com/yourusername/project2)
-A brief description of what Project 2 is about, the technologies used, and its purpose. Highlight any key features or challenges overcome during development.
-
-### [Project 3 Name](https://github.com/yourusername/project3)
-A brief description of what Project 3 is about, the technologies used, and its purpose. If applicable, mention any collaboration or community involvement.
-
-## 🌱 What I'm Currently Learning
-
-- Topic 1
-- Topic 2
-- Topic 3
+[![Languages](https://img.shields.io/badge/%20Languages-TypeScript%20%7c%20JavaScript%20%7C%20HTML%20%7C%20CSS-green?style=flat&color=2bbc8a)]()
 
 ## 👯‍♀️ Looking to Collaborate On
 
@@ -47,15 +31,8 @@ A brief description of what Project 3 is about, the technologies used, and its p
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourusername-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-2bbc8a?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-## ✨ Fun Facts
-
-- Fun Fact 1
-- Fun Fact 2
-- Fun Fact 3
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arijit%20Roy-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aroyofficial)
+[![Email](https://img.shields.io/badge/Email-aroy02072000@gmail.com-2bbc8a?style=flat&logo=gmail&logoColor=white)](mailto:aroy02072000@gmail.com)
 
 ## 📊 GitHub Stats
 
