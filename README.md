@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arijit%20Roy-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aroyofficial)
-[![Email](https://img.shields.io/badge/Email-aroy02072000@gmail.com-2bbc8a?style=flat&logo=gmail&logoColor=white)](mailto:aroy02072000@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aroy02072000@gmail.com-ff160b?style=flat&logo=gmail&logoColor=white)](mailto:aroy02072000@gmail.com)
 
 ## 📊 GitHub Stats
 
