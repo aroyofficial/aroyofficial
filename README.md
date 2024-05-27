@@ -13,6 +13,11 @@ Welcome to my GitHub profile! I'm a [Your Role or Profession] passionate about [
 [![Test Frameworks](https://img.shields.io/badge/%20Test%20Frameworks-xUnit%20%7c%20NUnit%20%7C%20Specflow%20%7c%20Moq%20%7c%20Fluent%20Assertions-green?style=flat&color=2bbc8a)]()
 [![Databases](https://img.shields.io/badge/%20Databases-Microsoft%20SQL%20Server%20%7c%20MySQL-green?style=flat&color=2bbc8a)]()
 
+### Frontend
+[![Languages](https://img.shields.io/badge/%20Languages-TypeScript%20%7c%20JavaScript%20%7C%20HTML%20%7C%20CSS-green?style=flat&color=2bbc8a)]()
+
+### CI/CD &amp; DevOps
+
 ## 🚀 Projects
 
 ### [Project 1 Name](https://github.com/yourusername/project1)
