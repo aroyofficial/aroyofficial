@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about
 [![Languages](https://img.shields.io/badge/%20Languages-TypeScript%20%7c%20JavaScript%20%7C%20HTML%20%7C%20CSS-green?style=flat&color=2bbc8a)]()
 [![Frameworks](https://img.shields.io/badge/%20Frameworks-Vue.js%20%7c%20Angular.js-green?style=flat&color=2bbc8a)]()
 [![Libraries](https://img.shields.io/badge/%20Libraries-VueX%20%7c%20Vue%20Router%20%7c%20NgRx-green?style=flat&color=2bbc8a)]()
+[![Styling Libraries](https://img.shields.io/badge/%20Styling%20Libraries-Vuetify%20%7c%20IView%20%7c%20Bootstrap%20%7c%20Tailwind%20CSS-green?style=flat&color=2bbc8a)]()
 [![Testing Frameworks](https://img.shields.io/badge/%20Testing%20Frameworks-Cypress%20%7c%20Jest-green?style=flat&color=2bbc8a)]()
 
 ### CI/CD &amp; DevOps
