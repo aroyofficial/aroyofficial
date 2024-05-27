@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about
 [![Test Frameworks](https://img.shields.io/badge/%20Test%20Frameworks-Cypress%20%7c%20Jest-green?style=flat&color=8c2c78)]()
 
 ### CI/CD & DevOps
-[![Tools](https://img.shields.io/badge/%20Tools-Docker%20%7C%20Kubernetes%20%7C%20Jenkins-green?style=flat&color=2bbc8a)]()
+[![Tools](https://img.shields.io/badge/%20Tools-Docker%20%7C%20Kubernetes%20%7C%20Jenkins-green?style=flat&color=06a049)]()
 
 ### Miscellaneous
 [![Version Control System](https://img.shields.io/badge/%20Version%20Control%20System-Git-green?style=flat&color=bc791a)]()
