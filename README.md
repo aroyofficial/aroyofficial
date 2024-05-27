@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about building scalable and robust APIs, microservices, etc. Also, I have a proven track record of building next-level dynamic and responsive UI/UX. Here, you'll find a collection of my sample projects, contributions, and explorations in the world of Dotnet full-stack.
 
-[![Resume](https://img.shields.io/badge/%20Check%20My%20Resume%20-white?style=for-the-badge&logo=google-docs)]()
+[![Resume](https://img.shields.io/badge/%20Check%20My%20Resume%20-white?style=for-the-badge&logo=google-docs)](https://onedrive.live.com/?authkey=%21AHSAenjZUhE8uzY&id=7D48DF1579812B2E%2164552&cid=7D48DF1579812B2E&parId=root&parQt=sharedby&o=OneUp)
 
 ## 🔧 Technologies & Tools
 
