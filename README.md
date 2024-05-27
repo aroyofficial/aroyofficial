@@ -7,12 +7,12 @@ Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about
 ## 🔧 Technologies & Tools
 
 ### Backend
-[![Languages](https://img.shields.io/badge/%20Languages-C%23%20%7c%20Python%20%7C%20Java%20%7C%20C-green?style=flat&color=2bbc8a)]()
-[![Frameworks](https://img.shields.io/badge/%20Frameworks-ASP.Net%20Web%20API%20%7c%20ASP.Net%20MVC%20%7C%20ASP.Net%20Core%20%7C%20ASP.Net%20Web%20Forms%20-green?style=flat&color=2bbc8a)]()
-[![Technologies](https://img.shields.io/badge/%20Data%20Access%20Technologies-Entity%20Framework%20%7c%20Dapper%20%7C%20ADO.Net-green?style=flat&color=2bbc8a)]()
-[![Testing Frameworks](https://img.shields.io/badge/%20Test%20Frameworks-xUnit%20%7c%20NUnit%20%7C%20Specflow%20%7c%20Moq%20%7c%20Fluent%20Assertions-green?style=flat&color=2bbc8a)]()
-[![Databases](https://img.shields.io/badge/%20Databases-Microsoft%20SQL%20Server%20%7c%20MySQL-green?style=flat&color=2bbc8a)]()
-[![Miscellaneous](https://img.shields.io/badge/%20Miscellaneous-LINQ%20%7c%20Newtonsoft.Json%20%7c%20AutoMapper%20%7c%20Serilog%20%7c%20Log4Net%20%7c%20JWT-green?style=flat&color=2bbc8a)]()
+[![Languages](https://img.shields.io/badge/%20Languages-C%23%20%7c%20Python%20%7C%20Java%20%7C%20C-green?style=flat&color=1e8cbe)]()
+[![Frameworks](https://img.shields.io/badge/%20Frameworks-ASP.Net%20Web%20API%20%7c%20ASP.Net%20MVC%20%7C%20ASP.Net%20Core%20%7C%20ASP.Net%20Web%20Forms%20-green?style=flat&color=1e8cbe)]()
+[![Technologies](https://img.shields.io/badge/%20Data%20Access%20Technologies-Entity%20Framework%20%7c%20Dapper%20%7C%20ADO.Net-green?style=flat&color=1e8cbe)]()
+[![Testing Frameworks](https://img.shields.io/badge/%20Test%20Frameworks-xUnit%20%7c%20NUnit%20%7C%20Specflow%20%7c%20Moq%20%7c%20Fluent%20Assertions-green?style=flat&color=1e8cbe)]()
+[![Databases](https://img.shields.io/badge/%20Databases-Microsoft%20SQL%20Server%20%7c%20MySQL-green?style=flat&color=1e8cbe)]()
+[![Miscellaneous](https://img.shields.io/badge/%20Miscellaneous-LINQ%20%7c%20Newtonsoft.Json%20%7c%20AutoMapper%20%7c%20Serilog%20%7c%20Log4Net%20%7c%20JWT%20%7c%20Nuget-green?style=flat&color=1e8cbe)]()
 
 ### Frontend
 [![Languages](https://img.shields.io/badge/%20Languages-TypeScript%20%7c%20JavaScript%20%7C%20HTML%20%7C%20CSS-green?style=flat&color=2bbc8a)]()
