@@ -2,7 +2,7 @@
 
 ![Your banner image](https://yourbannerimageurl.com)
 
-Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about [Your Interests or Specializations]. Here, you'll find a collection of my projects, contributions, and explorations in the world of [Your Field].
+Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about building scalable and robust APIs, microservices, etc. Also, I have a proven track record of building next-level dynamic and responsive UI/UX. Here, you'll find a collection of my sample projects, contributions, and explorations in the world of Dotnet full-stack.
 
 ## 🔧 Technologies & Tools
 
