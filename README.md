@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a Dotnet full-stack developer passionate about
 ### Miscellaneous
 [![Version Control System](https://img.shields.io/badge/%20Version%20Control%20System-Git-green?style=flat&color=2bbc8a)]()
 [![Code Repository](https://img.shields.io/badge/%20Code%20Repository-GitHub%20%7C%20BitBucket-green?style=flat&color=2bbc8a)]()
-[![Project Management Tool](https://img.shields.io/badge/%20Project%20Management%Tool-%20Jira%20-green?style=flat&color=2bbc8a)]()
+[![Project Management Tool](https://img.shields.io/badge/%20Project%20Management%20Tool-Jira-green?style=flat&color=2bbc8a)]()
 
 ### CI/CD & DevOps
 
